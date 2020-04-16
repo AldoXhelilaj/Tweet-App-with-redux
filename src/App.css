@@ -6,6 +6,7 @@
   height: 40vmin;
 }
 
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -20,3 +21,33 @@
 .App-link {
   color: #09d3ac;
 }
+.rounded {
+  border-radius: 100% !Important;
+}
+.tweet {
+  border: 1px solid #80808085;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+.tweet img{
+  width: 20%;
+}
+.tweet-info {
+  padding-left: 10px;
+}
+ul{
+  list-style: none;
+  padding: 0;
+}
+button{
+  background: transparent;
+    border: none;
+}
+.replyin-to {
+  display: inline-block;
+  width: fit-content;
+}
+.btn-success{
+margin: 20px 0;
+}
+
