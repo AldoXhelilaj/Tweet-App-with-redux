@@ -6,7 +6,7 @@ import {showLoading, hideLoading} from 'react-redux-loading'
 
 
 
-const AUTHED_ID="tylermcginnis";
+const AUTHED_ID="aldoxhelilaj";
 
 
 export function handleInitialData() {

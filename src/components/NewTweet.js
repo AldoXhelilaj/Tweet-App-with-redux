@@ -57,7 +57,7 @@ if(toHome===true){
 }
 
         return (
-            <div>
+            <div className="container">
                <h3 className='text-center'>Compose new Tweet</h3>
                <form  className=" d-flex justify-content-around flex-column align-items-center" onSubmit={this.handleSubmit}>
                 <textarea placeholder="Whats up?"
